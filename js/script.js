@@ -40,6 +40,7 @@ let checkInput = (input) => {
             : input
     return input
 }
+//deploy git
 let createMatrix = () => {         
     for (let i = 0; i < rows; i++) {
         arr = []
